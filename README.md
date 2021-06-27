@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feyzk
-- 👀 I’m interested in mobile and front-end web development
-- 🌱 I’m currently learning flutter and VueJS
+- 👀 I’m interested in mobile app development with Flutter
+- 🌱 I’m currently learning Flutter 
 - 📫 How to reach me : instagram @feyzforall
 
 <!---
